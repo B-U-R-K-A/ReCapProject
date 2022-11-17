@@ -1,0 +1,12 @@
+C:\Users\DarkB\source\repos\Kamp\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\DarkB\source\repos\Kamp\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\DarkB\source\repos\Kamp\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\DarkB\source\repos\Kamp\Entities\obj\Debug\net6.0\ref\Entities.dll
